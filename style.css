@@ -1,0 +1,33 @@
+body{
+    background-color: #fff;
+}
+
+span {
+  display: block;
+}
+
+.buttons {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+
+  span{
+    display: block;
+  }
+
+  #white{
+    background-color: #fff;
+  }
+
+  #black{
+    background-color: black;
+  }
+  #violet{
+    background-color: violet;
+  }
+
+  #yellow{
+    background-color:yellow;
+  }
